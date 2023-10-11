@@ -1,0 +1,21 @@
+.burger-menu {
+    background: transparent;
+    color: yellow;
+}
+
+#burger-top {
+    width: 10px;
+    height: 2px;
+}
+
+#burger-middle {
+    width: 10px;
+    height: 2px;
+}
+
+#burger-bottom {
+    width: 10px;
+    height: 2px;
+}
+
+
